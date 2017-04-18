@@ -104,5 +104,3 @@ server <- function(input, output) {
     )
   })
 }
-
-runApp(list(ui = ui, server = server))
